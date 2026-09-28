@@ -1,0 +1,14 @@
+.venv/
+.cache/
+.env
+*.log
+models/
+build/
+__pycache__/
+*.pyc
+config/teacher_settings.json
+config/app_parameters.json
+config/personas.json
+
+config/
+
